@@ -1,29 +1,37 @@
-baseURL: https://rahulgadre.com # if your site is in 'https', then make sure your base url isn't written using 'http' otherwise your sitemap would contain http (as opposeed to https) URLs. This would affect Google indexing of your URLs.
-title: Rahul Gadre
+baseURL: https://rishabkumar.com
+title: Rishab Kumar
 paginate: 6
 theme: charlolamode
 
+
+
 menu:
     main:
-        - name: About me
-          url: /contact/
+        - name: About
+          url: about/
           weight: 30
-        - name: Blogs
-          url: /articles/
+        - name: Blog
+          url: blog/
           weight: 20
-        - name: Projects
-          url: /projects/
-          weight: 15
-
-     # - name: Categories
-        #   url: /categories/
+        # - name: Categories
+        #   url: categories/
         #   weight: 10
-        # - name: new Tab
-        #   url: /newtab/
-        #   weight: defines order of tabs
-   
+        - name: Notes
+          url: notes/
+        #  weight: 10
+        - name: Public Speaking
+          url: publicspeaking/
+        - name: Podcast
+          url: podcast/
+        - name: Uses
+          url: uses/
+
+
 params:
-    author: Rahul Gadre
+    author: Rishab Kumar
+    description: Hi, I am Rishab Kumar, a Developer Evangelist at Twilio and Cloud & DevOps enthusiast.
+
+
     defaultTheme: auto
     # disableThemeToggle: true
     ShowShareButtons: true
@@ -34,47 +42,45 @@ params:
     ShowToc: true
 
     profileMode:
-        # Disable to populate home page with 'mainSections' content
         enabled: true
-        title: Rahul Gadre
-        description: |
-
-          Hello, I am Rahul - a Cloud and DevOps engineer. 
-        
-        imageUrl: "/images/my_new_pic.jpeg"
-        imageTitle: Rahul Gadre
-        # imageWidth: 120
-        # imageHeight: 120
-         # buttons:
-         #   - name: Don't click me
-         #     url: https://www.youtube.com/watch?v=dQw4w9WgXcQ
+        title: Rishab Kumar 👋
+        description: Ula
+        imageUrl: "/images/profile.jpg"
+        imageTitle: Rishab Kumar
+        imageWidth: 200
+        imageHeight: 200
+        buttons:
+            - name: Don't click me
+              url: https://www.youtube.com/@rishabincloud
+            - name: Checkout the DevOps Guide
+              url: https://thedevops.guide
+            - name: Subscribe to my newsletter
+              url: https://rishabkumar.substack.com/
     mainSections:
       - articles
 
     socialIcons:
-        - name: twitter
-          url: "https://twitter.com/rggadre"
         - name: github
-          url: "https://github.com/rahulgadre"
+          url: "https://github.com/rishabkumar7"
+        - name: youtube
+          url: "https://youtube.com/@rishabincloud"
+        - name: twitter
+          url: "https://twitter.com/rishabincloud"
         - name: linkedin
-          url: "https://www.linkedin.com/in/rahulgadre/"
-
-      # add more social icons. find more in svg.html file
-      # - name: youtube
-      #   url: yoururl
-      # - name: twitter
-      #   url: yoururl
-      # - name: facebook
-      #   url: yoururl
+          url: "https://www.linkedin.com/in/rishabkumar7/"
+        - name: buymeacoffee
+          url: "https://www.buymeacoffee.com/rishabincloud"
+        - name: instagram
+          url: "https://instagram.com/rishabincloud"
 
 
     # change favicon in images folder (icon for web tab)
     assets:
           favicon: "/images/favicon.ico"
-          favicon16x16: "/images/my_new_pic.jpeg"
-          favicon32x32: "/images/my_new_pic.jpeg"
-          apple_touch_icon: "/images/my_new_pic.jpeg"
-          safari_pinned_tab: "/images/my_new_pic.jpeg"
+          favicon16x16: "/images/favicon-16x16.png"
+          favicon32x32: "/images/favicon-32x32.png"
+          apple_touch_icon: "/images/apple-touch-icon.png"
+          safari_pinned_tab: "/images/apple-touch-icon.png"
 
 
 
@@ -85,4 +91,3 @@ pygmentsUseClasses: true
 
 minify:
     disableXML: true
-
