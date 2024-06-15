@@ -36,8 +36,8 @@ features = [
 ]
 
 [author]
-  name = "Charlotte Martin"
-  homepage = "https://github.com/charlola/"
+  name = "Rahul Gadre"
+  homepage = "https://github.com/rahulgadre/"
 
 # If porting an existing theme
 [original]
