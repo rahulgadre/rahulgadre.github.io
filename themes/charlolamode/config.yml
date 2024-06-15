@@ -22,8 +22,6 @@ menu:
         #   url: /newtab/
         #   weight: defines order of tabs
    
-
-
 params:
     author: Rahul Gadre
     defaultTheme: auto
