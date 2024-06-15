@@ -1,0 +1,94 @@
+baseURL: https://rahulgadre.com # if your site is in 'https', then make sure your base url isn't written using 'http' otherwise your sitemap would contain http (as opposeed to https) URLs. This would affect Google indexing of your URLs.
+title: Rahul Gadre
+paginate: 5
+theme: charlolamode
+
+
+
+menu:
+    main:
+        - name: About me
+          url: /contact/
+          weight: 30
+        - name: Blogs
+          url: /articles/
+          weight: 20
+        - name: Projects
+          url: /projects/
+          weight: 15
+
+     # - name: Categories
+        #   url: /categories/
+        #   weight: 10
+        # - name: new Tab
+        #   url: /newtab/
+        #   weight: defines order of tabs
+   
+
+
+params:
+    author: Rahul Gadre
+
+
+    defaultTheme: auto
+    # disableThemeToggle: true
+    ShowShareButtons: true
+    ShowReadingTime: true
+    displayFullLangName: true
+    ShowBreadCrumbs: true
+    ShowCodeCopyButtons: true
+    ShowToc: true
+
+    profileMode:
+        # Disable to populate home page with 'mainSections' content
+        enabled: true
+        title: Rahul Gadre
+        description: |
+
+          Hello, I am Rahul - a Cloud and DevOps engineer. 
+        
+        imageUrl: "/images/my_new_pic.jpeg"
+        imageTitle: Rahul Gadre
+        # imageWidth: 120
+        # imageHeight: 120
+         # buttons:
+         #   - name: Don't click me
+         #     url: https://www.youtube.com/watch?v=dQw4w9WgXcQ
+    mainSections:
+      - articles
+
+    socialIcons:
+        - name: twitter
+          url: "https://twitter.com/rggadre"
+        - name: github
+          url: "https://github.com/rahulgadre"
+        - name: linkedin
+          url: "https://www.linkedin.com/in/rahulgadre/"
+
+      # add more social icons. find more in svg.html file
+      # - name: youtube
+      #   url: yoururl
+      # - name: twitter
+      #   url: yoururl
+      # - name: facebook
+      #   url: yoururl
+
+
+    # change favicon in images folder (icon for web tab)
+    assets:
+          favicon: "/images/favicon.ico"
+          favicon16x16: "/images/my_new_pic.jpeg"
+          favicon32x32: "/images/my_new_pic.jpeg"
+          apple_touch_icon: "/images/my_new_pic.jpeg"
+          safari_pinned_tab: "/images/my_new_pic.jpeg"
+
+
+
+enableInlineShortcodes: true
+enableRobotsTXT: true
+enableEmoji: true
+pygmentsUseClasses: true
+
+minify:
+    disableXML: true
+
