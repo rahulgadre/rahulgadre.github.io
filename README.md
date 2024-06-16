@@ -1,6 +1,6 @@
 ## Credits
 
-This website theme is based on the Hugo framework which is made with the templates [PaperMod](https://github.com/adityatelange/hugo-PaperMod) and [hugo-paper](https://github.com/nanxiaobei/hugo-paper). Design from [LinkedIn](https://www.linkedin.com/in/heycharlola/)!
+This website theme is based on the Hugo framework which is made with the templates [PaperMod](https://github.com/adityatelange/hugo-PaperMod) and [hugo-paper](https://github.com/nanxiaobei/hugo-paper). Design from charlola [LinkedIn](https://www.linkedin.com/in/heycharlola/)!
 
 ## Quick Start
 
