@@ -1,7 +1,7 @@
 ---
 title: Creating a filesystem and a partition on an EBS volume
 date: 2022-04-17 17:08:47 +07:00
-tags: [aws]
+tags: AWS
 description: Creating a filesystem and a partition on an EBS volume 
 ---
 
