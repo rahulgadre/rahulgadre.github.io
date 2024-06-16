@@ -1,10 +1,3 @@
----
-title: Creating a filesystem and a partition on an EBS volume
-date: 2022-04-17 17:08:47 +07:00
-tags: AWS
-description: Creating a filesystem and a partition on an EBS volume 
----
-
 Often times, we may have to add additional disks to store application or other data. To make the newly added volume usuable, a filesystem and a partition (if needed) needs to be created from the OS level. In this blog, we will explore the steps to create a partition and a filesystem once a new volume is attached to an EC2 Linux instance.
 
 Execute the following command to check if a filesystem exists on a volume:
