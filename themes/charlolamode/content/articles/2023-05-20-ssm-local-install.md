@@ -1,6 +1,5 @@
 ---
 title: Installing an SSM agent locally on an EC2 instance
-tags: aws
 description: This blog contains steps to install an SSM agent locally on an EC2 instance
 ---
 
