@@ -117,6 +117,6 @@ To push your website online, refer to this [blog](https://gohugo.io/hosting-and-
 
 ### Issues encountered
 
-- A browser tab showed the website URL instead of the author name. Fix this issue by adding ```<title>Author Name</title>``` as the first line in themes/charlolamode/layouts/partials/head.html
+- A browser tab showed the website URL instead of the author name. Fix this issue by adding ```<title>Author Name</title>``` as the first line in themes/charlolamode/layouts/partials/head.html.
   
-- The blog pages showed "&nbsp;·&nbsp; between the reading time and the author name instead of adding blank space. Fixed this issue by replacing the delimit line with ```{{- delimit . " ·  " -}}```
+- The blog pages showed "nbsp;·nbsp;" between the reading time and the author name instead of adding blank space. Fixed this issue by replacing the delimit line with ```{{- delimit . " ·  " -}}```.
