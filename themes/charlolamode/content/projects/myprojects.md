@@ -5,7 +5,7 @@ type: page
 topic: project
 ---
 
-![](shiprock.JPG)
+![](screenshot.png)
 
 ### IP Address Management using phpIPAM:
 Improved the way the team was documenting IP addresses by removing the need of spreadsheets by configuring and deploying an open source IPAM tool named phpIPAM on a Linux VM. \
