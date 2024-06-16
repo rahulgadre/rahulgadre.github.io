@@ -1,6 +1,7 @@
 ---
 title: My Projects
 description:  This page shows a list of projects
+feature: /images/screenshot.png
 type: page
 topic: project
 ---
