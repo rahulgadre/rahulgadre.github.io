@@ -13,21 +13,18 @@ Before coming to the US, I worked as a System Administrator at HSBC Software Ind
 
 I received a Bachelor of Engineering degree in Electronics Engineering from University of Mumbai and a Masters in Networking and System Administration with a 4.0 GPA from Rochester Institute of Technology.
 
-### 🏅 My achievements: 
+### Certifications:
 
-<p align="left">
-  <img src="https://images.credly.com/size/680x680/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="125" height="125">
-  <img src="https://images.credly.com/size/340x340/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" width="125" height="125">
-  <img src="https://images.credly.com/size/340x340/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png" width="125" height="125">
-  <img src="https://images.credly.com/size/340x340/images/f0d3fbb9-bfa7-4017-9989-7bde8eaf42b1/image.png" width="125" height="125">
-  <img src="https://images.credly.com/size/340x340/images/2d84e428-9078-49b6-a804-13c15383d0de/image.png" width="125" height="125">
-  <img src="https://images.credly.com/size/340x340/images/bd31ef42-d460-493e-8503-39592aaf0458/image.png" width="125" height="125">
-  <img src="https://images.credly.com/size/340x340/images/e66cfe55-7840-4628-bd31-16147d07c515/image.png" width="125" height="125">
-  <img src="https://images.credly.com/size/340x340/images/96012817-d2f3-4a13-8275-eb6ef323dc2b/image.png" width="125" height="125"> 
-  <img src="https://images.credly.com/size/340x340/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" width="125" height="125">
-  <img src="https://images.credly.com/size/340x340/images/a31c0301-ff96-4cee-9435-0a4b40ce6e66/cisco_ccna_R_26S.png" width="125" height="125"> 
-</p>
-
+-  🏆 AWS Certified Solutions Architect Professional
+-  🏆 AWS Certified DevOps Engineer Professional
+-  🏆 AWS Certified Developer Associate
+-  🏆 AWS Certified SysOps Administrator Associate
+-  🏆 AWS Certified Solutions Architect Associate
+-  🏆 AWS Certified Cloud Practitioner
+-  🏆 Microsoft Certified Azure Fundamentals
+-  🏆 Elastic Block Store (EBS) Subject Matter Expert
+-  🏆 Cisco Certified Network Associate - Retired
+  
 ### Honors & Awards:
 
 #### Graduate Assistantship Scholarship Award – August 2015
