@@ -1,10 +1,9 @@
 ---
 title: Enable root access on an EC2 Linux instance
 type: page
-topic: AWS 
+topic: AWS
+Description: This blog contains the steps to enable root access on an EC2 Linux instance
 ---
-
-Enable root access on an EC2 Linux instance:
 
 Although it is a best practice to have access to EC2 Linux instances via username & password or session manager or EC2 instance connect, but SSH access with the root user can be configured. This blog describes the steps to enable and access EC2 instances with root level access.
 
