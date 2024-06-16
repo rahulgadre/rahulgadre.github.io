@@ -2,6 +2,7 @@
 title: Bastion host & private instances 
 type: page
 topic: aws 
+description: Accessing private instances via SSH from the bastion host in AWS
 ---
 
 Accessing private instances via SSH using a bastion host:
