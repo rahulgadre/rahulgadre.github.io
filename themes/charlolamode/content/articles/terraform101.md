@@ -2,11 +2,8 @@
 title: Terraform 101 
 type: page
 topic: Terraform
-images: [https://cmart1n.com/articles/csa_pic.png]
-thumbnail: https://cmart1n.com/articles/csa_pic.png
 description: Understanding the basics of Terraform
-draft: false
---- 
+---
 
 Terraform is a widely used infrastructure management tool in the world of DevOps. 
 It offers several benefits including its idempotent, declarative, and cloud agnostic. 
@@ -35,7 +32,6 @@ Apart from the above commands, there are several Terraform components which get 
 - Variables - Define variables in other files and call them in the main.tf
 - Provisioner - Provisioners can be used to model specific actions on the local machine or on a remote machine to prepare servers or other infrastructure objects for service.
 - Modules - A module is a simple directory that contains other .tf files. Using modules we can make the code reusable. Modules are local or remote.
-- Terraform Cloud - the best solution for encryption and backups, the answer is Terraform Cloud. Terraform Cloud encrypts the state file at rest, and also encrypts using TLS.
 
 ###  Important tidbits related to Terraform:
 -  .terraform.lock.hcl - specifies the exact provider versions used so that you can update the providers used for your project.
@@ -52,8 +48,7 @@ Apart from the above commands, there are several Terraform components which get 
 	- It's a single source of truth and the file is refreshed automatically before any operation is applied to check for drift.
 	- If  deleted, resources are orphaned and need to be deleted manually.
 - Remote state - store state file at a remote place such as S3, TF enterprise instead of saving it locally.
-Import - Import resources not launched by Terraform to manage by Terraform 
-```terraform import aws_instance.importec2 i-123456789```
+- Import - Import resources not launched by Terraform to manage by Terraform ```terraform import aws_instance.importec2 i-123456789```
 - Workspaces - By default all resources or work gets created in the default workspace.
 	- Can create new workspaces - ```terraform workspaces add dev```
 	- Switch to a different workspace - ```terraform workspaces select prod```
