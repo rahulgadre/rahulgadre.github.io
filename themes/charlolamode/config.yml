@@ -5,7 +5,7 @@ theme: charlolamode
 menu:
     main:
     
-        - title: resume
+        - name: Resume
           url: https://rahulgadre.com/resume/
           external: true # set true if you using external link, see below
           weight: 35
