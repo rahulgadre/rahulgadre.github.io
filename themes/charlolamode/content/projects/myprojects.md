@@ -6,7 +6,7 @@ topic: project
 ---
 
 ### Personal portfolio website 
-Updated the personal portfolio [website](https://rahulgadre.com) after doing a local testing of a Hugo template and then publishing it via GitHub pages.
+Updated the personal portfolio [website](https://rahulgadre.com) after doing a local testing of a Hugo template and then publishing it via GitHub pages. \
 Technologies: Hugo, HTML, CSS, Linux, Git
 
 ### IP Address Management using phpIPAM:
