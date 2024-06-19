@@ -111,10 +111,26 @@ menu:
           weight: 15
 ```
 
-## Publish Online Website via GitHub Pages
+### Publish Online Website via GitHub Pages
 
 To push your website online, refer to this [blog](https://gohugo.io/hosting-and-deployment/hosting-on-github/) to deploy the Hugo site via GitHub pages.
 
+### Add Google fonts to the site
+
+- Update the layouts/partials/header.html file and add the following code at the top:
+```
+<head>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Google_Font">
+    {{ template "_internal/google_analytics.html" . }}
+</head>
+
+```
+Note: Add the desired font in the place of "Google_Font"
+
+- Add the desired Google font in the file assets/css/core/reset.css and comment out the original font-family line.
+```
+font-family: '<Google_Font>', sans-serif;
+```
 ### Issues encountered
 
 - A browser tab showed the website URL instead of the author name. Fix this issue by adding ```<title>Author Name</title>``` as the first line in themes/charlolamode/layouts/partials/head.html.
