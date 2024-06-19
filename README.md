@@ -117,9 +117,15 @@ To push your website online, refer to this [blog](https://gohugo.io/hosting-and-
 
 ### Add images to content:
 
-Add the following block of code in the .md file of an article/blog to display an image in the blog.
+In the blog - add the following block of code in the .md file of an article/blog to display an image in the blog.
 
 ```{{< figure src="/images/myimage.png" title="" >}}```
+
+In the preview of a blog - add the following in the metadata section of a markdown file and ensure that the image location correct and accessible. Else, the image won't load.
+
+```image: images/myimage.jpg```
+
+Note: In this case, a sub folder with the name "images" was created in the articles folder.
 
 Note: Update the image path as per your requirement.
 
@@ -139,6 +145,7 @@ Note: Add the desired font in the place of "Font_Name"
 ```
 font-family: '<Font_Name>', sans-serif;
 ```
+
 ### Issues encountered
 
 - A browser tab showed the website URL instead of the author name. Fix this issue by adding ```<title>Author Name</title>``` as the first line in themes/charlolamode/layouts/partials/head.html.
