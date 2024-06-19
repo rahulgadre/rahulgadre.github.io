@@ -5,6 +5,8 @@ type: page
 topic: project
 ---
 
+{{< figure src="https://cmart1n.com/articles/msftinternship/office.jpeg" title="" >}}
+
 ### Personal portfolio website 
 Updated the personal portfolio [website](https://rahulgadre.com) after doing a local testing of a Hugo template and then publishing it via GitHub pages. \
 Technologies: Hugo, HTML, CSS, Linux, Git
