@@ -1,6 +1,6 @@
 ---
 title: Terraform 101 
-dateMonthYear: 1 June 2024
+dateMonthYear: June 2024
 type: page
 topic: Terraform
 description: Understanding the basics of Terraform
