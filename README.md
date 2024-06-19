@@ -115,21 +115,21 @@ menu:
 
 To push your website online, refer to this [blog](https://gohugo.io/hosting-and-deployment/hosting-on-github/) to deploy the Hugo site via GitHub pages.
 
-### Add Google fonts to the site
+### Add fonts to the site
 
 - Update the layouts/partials/header.html file and add the following code at the top:
 ```
 <head>
-    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Google_Font">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Font_Name">
     {{ template "_internal/google_analytics.html" . }}
 </head>
 
 ```
-Note: Add the desired font in the place of "Google_Font"
+Note: Add the desired font in the place of "Font_Name"
 
 - Add the desired Google font in the file assets/css/core/reset.css and comment out the original font-family line.
 ```
-font-family: '<Google_Font>', sans-serif;
+font-family: '<Font_Name>', sans-serif;
 ```
 ### Issues encountered
 
