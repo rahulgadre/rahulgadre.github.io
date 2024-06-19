@@ -33,6 +33,14 @@ Apart from the above commands, there are several Terraform components which get 
 - Provisioner - Provisioners can be used to model specific actions on the local machine or on a remote machine to prepare servers or other infrastructure objects for service.
 - Modules - A module is a simple directory that contains other .tf files. Using modules we can make the code reusable. Modules are local or remote.
 
+### Configuration Files used in Terraform:
+
+- main.tf - this is a main terraform configuration file which is used to create resources, call modules, locals, and data sources. The name can be anything and doesn't have to be main.tf.
+- variables.tf - this file is used to define variables. The variables defined in this file can then be called from main.tf. Only the variable blocks are required for different variables and the variables values can be defined in the terraform.vars file.
+- outputs.tf - the outputs.tf file contains the outputs blocks where the outputs which want to be displayed are defined.
+- terraform.vars - the file terraform.vars contains the values assigned to variables which are defined in the variables.tf file.
+- versions.tf - this file is used to define the requirements for terraform and providers.
+
 ###  Important tidbits related to Terraform:
 -  .terraform.lock.hcl - specifies the exact provider versions used so that you can update the providers used for your project.
 - Local values - using the same word as a variable at different places then use Locals
