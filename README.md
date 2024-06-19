@@ -115,6 +115,14 @@ menu:
 
 To push your website online, refer to this [blog](https://gohugo.io/hosting-and-deployment/hosting-on-github/) to deploy the Hugo site via GitHub pages.
 
+### Add images to content:
+
+Add the following block of code in the .md file of an article/blog to display an image in the blog.
+
+```{{< figure src="/images/myimage.png" title="" >}}```
+
+Note: Update the image path as per your requirement.
+
 ### Add fonts to the site
 
 - Update the layouts/partials/header.html file and add the following code at the top:
