@@ -39,7 +39,7 @@ Apart from the above commands, there are several Terraform components which get 
 - variables.tf - this file is used to define variables. The variables defined in this file can then be called from main.tf. Only the variable blocks are required for different variables and the variables values can be defined in the terraform.vars file.
 - outputs.tf - the outputs.tf file contains the outputs blocks where the outputs which want to be displayed are defined.
 - terraform.vars - the file terraform.vars contains the values assigned to variables which are defined in the variables.tf file.
-- versions.tf - this file is used to define the requirements for terraform and providers.
+- versions.tf - this file is used to define the version requirements for terraform and providers.
 
 ###  Important tidbits related to Terraform:
 -  .terraform.lock.hcl - specifies the exact provider versions used so that you can update the providers used for your project.
