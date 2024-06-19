@@ -5,6 +5,10 @@ type: page
 topic: project
 ---
 
+### Personal portfolio website 
+Updated the personal portfolio [website](https://rahulgadre.com) after doing a local testing of a Hugo template and then publishing it via GitHub pages.
+Technologies: Hugo, HTML, CSS, Linux, Git
+
 ### IP Address Management using phpIPAM:
 Improved the way the team was documenting IP addresses by removing the need of spreadsheets by configuring and deploying an open source IPAM tool named phpIPAM on a Linux VM. \
 Technologies: CentOS Linux, VMWare, MYSQL, Ansible, System Administration
