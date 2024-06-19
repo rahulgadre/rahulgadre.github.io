@@ -3,6 +3,7 @@ title: My Projects
 description:  This page shows a list of projects
 type: page
 topic: project
+image: "https://cmart1n.com/articles/csa_pic.png"
 ---
 
 ### Personal portfolio website 
