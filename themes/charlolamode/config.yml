@@ -9,7 +9,7 @@ menu:
           url: https://rahulgadre.com/resume/
           external: true # set true if you using external link, see below
           weight: 35
-        - name: About me
+        - name: About
           url: /contact/
           weight: 30
         - name: Blogs
