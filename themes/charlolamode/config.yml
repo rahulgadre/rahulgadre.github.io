@@ -1,7 +1,8 @@
 title: "Rahul Gadre"
-baseURL: https://rahulgadre.com 
+baseURL: "https://rahulgadre.com" 
 paginate: 6
 theme: charlolamode
+permalink: /:title/
 
 menu:
     main:
