@@ -1,5 +1,5 @@
 ---
-title: Rahul's Blogs
+title: Blog
 ---
 
 {{< blog >}}
