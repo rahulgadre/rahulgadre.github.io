@@ -8,9 +8,6 @@ theme: charlolamode
 menu:
     main:
     
-        - name: Contact
-          url: /contact/
-          weight: 40
         - name: Resume
           url: https://rahulgadre.com/resume/
           external: true # set true if you using external link, see below
