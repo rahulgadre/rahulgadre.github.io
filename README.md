@@ -148,7 +148,7 @@ font-family: '<Font_Name>', sans-serif;
 
 ### Old config.yml file content
 
-theme: charlolamode
+```theme: charlolamode```
 
 ### Issues encountered
 
