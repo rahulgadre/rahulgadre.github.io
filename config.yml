@@ -13,7 +13,7 @@ menu:
           external: true # set true if you using external link, see below
           weight: 35
         - name: About
-          url: /contact/
+          url: /about/
           weight: 30
         - name: Blog
           url: /blog/
