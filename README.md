@@ -146,6 +146,10 @@ Note: Add the desired font in the place of "Font_Name"
 font-family: '<Font_Name>', sans-serif;
 ```
 
+### Old config.yml file content
+
+theme: charlolamode
+
 ### Issues encountered
 
 - A browser tab showed the website URL instead of the author name. Fix this issue by adding ```<title>Author Name</title>``` as the first line in themes/charlolamode/layouts/partials/head.html.
