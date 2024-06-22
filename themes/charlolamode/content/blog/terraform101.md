@@ -1,5 +1,6 @@
 ---
 title: Terraform 101 
+date: 2020-06-01T12:12:25.364Z
 type: page
 topic: Terraform
 description: Understanding the basics of Terraform
