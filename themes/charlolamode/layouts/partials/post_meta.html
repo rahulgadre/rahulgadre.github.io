@@ -7,7 +7,7 @@
 !-->
 
 {{- with ($scratch.Get "meta") }}
-{{- delimit . " %s  " (.Date)(.Date | time.Format (default "January 2, 2006" .Site.Params.DateFormat)) -}}
+{{- delimit . " '%s'  " (.Date)(.Date | time.Format (default "January 2, 2006" .Site.Params.DateFormat)) -}}
 {{- end -}}
 
 {{- if (.Param "ShowReadingTime") -}}
