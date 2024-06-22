@@ -1,7 +1,6 @@
 ---
 title: Docker 101 🐳
 date: 2020-09-22T17:25:25.364Z
-type: page
 topic: Docker 
 description: Basic Docker Commands
 image: images/docker101.jpg
