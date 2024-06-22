@@ -2,7 +2,7 @@
 title: Docker 101 🐳
 date: 2020-09-22T17:25:25.364Z
 topic: Docker 
-image: "/content/blog/images/docker101.jpg"
+image: "rahulgadre.github.io/content/blog/images/docker101.jpg"
 description: Basic Docker Commands
 ---
 
