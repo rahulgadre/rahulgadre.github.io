@@ -1,5 +1,6 @@
 ---
 title: Bastion host & private instances 
+date: 2022-04-27T19:06:25.364Z
 type: page
 topic: aws 
 description: Accessing private instances via SSH from the bastion host in AWS
