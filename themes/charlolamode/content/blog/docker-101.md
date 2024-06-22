@@ -2,8 +2,8 @@
 title: Docker 101 🐳
 date: 2020-09-22T17:25:25.364Z
 topic: Docker 
+image: images/docker101.jpg
 description: Basic Docker Commands
-image: /images/docker101.jpg
 ---
 
 Docker is a computer program that performs operating-system-level virtualization, also known as “containerization”. Docker allows to run multiple containers on a single linux OS. Containers are used for fast application deployment. Containers are running instances of an image . Unlike in virtualization using VMWare, containers have only one base operating system. Therefore, containers are widely used in the Dev-Ops environment for faster application deployment.
