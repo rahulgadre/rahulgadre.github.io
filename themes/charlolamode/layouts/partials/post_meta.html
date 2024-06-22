@@ -6,7 +6,7 @@
 !-->
 
 {{- if not .Date.IsZero -}}
-{{- $scratch.Add "meta" (slice (<title><span='%s'>%s</span></title> (.Date | time.Format (default "January 2, 2006" .Site.Params.DateFormat)))) }}
+{{- $scratch.Add "meta" <title><span='%s'>%s</span></title> }}
 {{- end }}
 
 {{- if (.Param "ShowReadingTime") -}}
