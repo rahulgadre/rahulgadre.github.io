@@ -1,5 +1,6 @@
 ---
 title: Getting started with Kubernetes with Minikube
+date: 2024-02-06T13:39:25.364Z
 type: page
 topic: Kubernetes
 description: This blog contains the steps to create a single node cluster using Minikube
