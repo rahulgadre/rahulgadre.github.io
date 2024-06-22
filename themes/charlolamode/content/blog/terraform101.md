@@ -1,6 +1,6 @@
 ---
 title: Terraform 101 
-date: "2024-06-01T00:00:00Z"
+date: "June 1, 2024"
 type: page
 topic: Terraform
 description: Understanding the basics of Terraform
