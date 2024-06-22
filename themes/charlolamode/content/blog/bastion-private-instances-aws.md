@@ -6,8 +6,6 @@ topic: aws
 description: Accessing private instances via SSH from the bastion host in AWS
 ---
 
-Accessing private instances via SSH using a bastion host:
-
 Often times we have instances in private subnets which we want to access using SSH. The most common way of accessing private instances is by using a bastion host. A bastion host is an instance which can be publicly accessed either from your computer or from the outside world. It is then used to access private instances. It is recommended to set the source as MyIP for SSH (port 22) in the security group associated with a bastion host.
 
 Once we have access to the bastion host, the private instances can be accessed using any of the 2 methods described below:
