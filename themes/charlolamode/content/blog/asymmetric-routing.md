@@ -1,5 +1,6 @@
 ---
 title: Solving asymmetric routing issues
+date: 2021-01-09T11:25:25.364Z
 description: A blog about solving asymmetric routing issues
 ---
 
