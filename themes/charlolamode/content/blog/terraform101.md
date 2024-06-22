@@ -1,6 +1,6 @@
 ---
 title: Terraform 101 
-date: 2024-05-09 12:12:25.364 +0000 UTC
+date: 2023-09-10T12:12:25.364Z
 topic: Terraform
 description: Understanding the basics of Terraform
 ---
