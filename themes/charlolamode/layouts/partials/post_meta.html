@@ -1,7 +1,7 @@
 {{- $scratch := newScratch }}
 
 {{- if not .Date.IsZero -}}
-<span title= "{{.Get "date"}}"></span>" (.Date) (.Date | time.Format (default "January 2, 2006" .Site.Params.DateFormat)))) }}
+<title> "{{.Get "date"}}" </title>
 {{- end }}
 
 
