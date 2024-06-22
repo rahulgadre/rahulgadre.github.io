@@ -7,7 +7,7 @@
 !-->
 
 {{- if not .Date.IsZero -}}
-{{- $scratch.Add "meta" (slice (i18n "date" .Date | default (printf "%d date" .Date))) }}
+{{- $scratch.Add "meta" (slice (i18n "date" | default (printf "%d date" .Date))) }}
 {{- end }}
 
 {{- if (.Param "ShowReadingTime") -}}
