@@ -5,9 +5,7 @@
 {{- end }}
 !-->
 
-{{- if not .Date.IsZero -}}
-{{- $scratch.Add "meta" <title><span='%s'>%s</span></title> }}
-{{- end }}
+<span> {{.Get 1}} </span>
 
 {{- if (.Param "ShowReadingTime") -}}
 {{- $scratch.Add "meta" (slice (i18n "read_time" .ReadingTime | default (printf "%d min" .ReadingTime))) }}
