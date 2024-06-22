@@ -1,5 +1,6 @@
 ---
 title: Enable root access on an EC2 Linux instance
+date: 2023-12-03T22:39:25.364Z
 type: page
 topic: AWS
 Description: This blog contains the steps to enable root access on an EC2 Linux instance
