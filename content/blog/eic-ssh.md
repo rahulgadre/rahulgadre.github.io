@@ -2,7 +2,7 @@
 title: Using Amazon EC2 Instance Connect for SSH access to EC2 instances 
 date: 2023-08-19T07:25:25.364Z
 type: page
-tags: ["aws"] 
+tags: ["AWS"] 
 description: Connecting to EC2 instances via SSH using Amazon EC2 Instance Connect Endpoints
 ---
 
