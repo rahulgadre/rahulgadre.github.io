@@ -28,7 +28,7 @@ For use cases such as log collection and analysis, data backup & archiving, and 
 
     `$ git clone https://github.com/s3fs-fuse/s3fs-fuse.git`
 
-Note - s3fs-fuse is a third party tool. Hence, test the steps in a test environment first. The blog writer holds no responsibility of any undesired outcomes and issues. 
+***Note - s3fs-fuse is a third party tool. Hence, test the steps in a test environment first. The blog writer holds no responsibility of any undesired outcomes and issues.***
 
 4. Once the code is downloaded from GitHub, compile and install it on the EC2 instance.
 
@@ -58,7 +58,7 @@ Note - s3fs-fuse is a third party tool. Hence, test the steps in a test environm
 
     `$ mount -a -- mounting  all filesystems mentioned in the /etc/fstab file`
 
-Note - Update the aforementioned s3fs line for fstab entry with the details such as S3 bucket name, mount point, IAM role name, and the region (for e.g: us-west-2) as per your use case.
+***Note - Update the aforementioned s3fs line for fstab entry with the details such as S3 bucket name, mount point, IAM role name, and the region (for e.g: us-west-2) as per your use case.***
 
 9. Confirm the mount point using the `df -hT` command.
 10. Read files from and write files to mount point similar to it's done on a Linux system. 
