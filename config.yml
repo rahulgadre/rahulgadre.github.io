@@ -53,7 +53,7 @@ params:
         # imageWidth: 120
         # imageHeight: 120
         buttons:
-         - name: My Resume
+         - name: Resume
            url: https://rahulgadre.com/resume/
     mainSections:
       - articles
