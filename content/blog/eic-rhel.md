@@ -5,8 +5,6 @@ tags: [AWS]
 description: Connecting to EC2 instances via SSH using Amazon EC2 Instance Connect Endpoints
 ---
 
-In the last blog, we reviewed how to access Amazon Linux EC2 or Ubuntu instances via EC2 Instance Connect endpoints. As per this [link](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide//ec2-instance-connect-prerequisites.html#eic-prereqs-amis) to an AWS document, EC2 Instance Connect can only be installed on instances launched from the AMIs Amazon Linux 2 (any version) and Ubuntu 16.04 or later. 
-
 In this blog, we will explore how to install the EC2 Instance Connect package on a RHEL based EC2 instance. Please note that the steps require either a SCP connection between the RHEL instance and an instance where the required package is downloaded or the root volume of the instance on which the required package is downloaded needs to be attached to the RHEL based instance to copy and install the required package.
 
 Prerequisites:
