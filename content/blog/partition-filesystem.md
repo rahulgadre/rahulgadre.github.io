@@ -1,6 +1,6 @@
 ---
 title: Creating a filesystem and a partition on an EBS volume
-date: 2022-04-17 17:08:47 +07:00
+date: 2023-05-11 17:08:47 +07:00
 tags: [Linux]
 description: Creating a filesystem and a partition on an EBS volume 
 ---
