@@ -8,10 +8,10 @@ theme: charlolamode
 menu:
     main:
     
-        - name: Resume
-          url: https://rahulgadre.com/resume/
-          external: true # set true if you using external link, see below
-          weight: 35
+       # - name: Resume
+       #   url: https://rahulgadre.com/resume/
+       #   external: true # set true if you using external link, see below
+       #   weight: 35
         - name: About
           url: /about/
           weight: 30
@@ -52,9 +52,9 @@ params:
         imageTitle: Rahul Gadre
         # imageWidth: 120
         # imageHeight: 120
-         # buttons:
-         #   - name: Don't click me
-         #     url: https://www.youtube.com/watch?v=dQw4w9WgXcQ
+        buttons:
+         - name: My Resume
+           url: https://rahulgadre.com/resume/
     mainSections:
       - articles
 
