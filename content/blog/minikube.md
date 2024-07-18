@@ -14,8 +14,8 @@ Minikube helps overcome the aforementioned challenges. Setting up a single node 
 As described in the [link](https://minikube.sigs.k8s.io/docs/start/?arch=%2Flinux%2Fx86-64%2Fstable%2Fbinary+download#Service) to a Minikube documentation, ensure that the VM has the following resources to successfully run Minikube.
 
   1. 2 CPUs or more.
-  2. 2GB of free memory.
-  3. 20GB of free disk space.
+  2. 2 GB of free memory.
+  3. 20 GB of free disk space.
   4. Internet connection.
   5. Container or virtual machine manager, such as Docker.
 
