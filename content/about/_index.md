@@ -3,7 +3,9 @@ Title: About me
 type: list
 ---
 
-I am a Cloud Support Engineer II and currently work for Amazon Web Services. I am part of the Linux team and work on various AWS services to solve complex customer issues. I troubleshoot application deployments, recreate customer issues, and build proof of concept applications. My responsibilities also include creating tutorials, how-to videos, and other technical articles for internal and customer communities. 
+I am a Technical Account Manager and currently work at Amazon Web Services. In my current role, I work as an advocate for customers and assist them with their journey to the cloud comsidering cost optimization and operational excellence.
+
+Prior to becoming a TAM, I was part of the Linux team and worked on various AWS services to solve complex customer issues. I troubleshot application deployments and recreate customer. My responsibilities also included creating tutorials, how-to videos, and other technical articles for internal and customer communities. 
 
 Prior to joining AWS, I worked at Avaya and was part of the ASP 100 and 4200 product design and development R&D team. I had been actively involved in designing, testing, and deployment of Avaya’s ASP products. In my first role at Avaya, I used to manage Avaya’s Highlands Ranch data center. My expertise included data center administration, DevOps and automation, and cloud computing. I have also achieved multiple cloud certifications from AWS and Microsoft Azure.
 
