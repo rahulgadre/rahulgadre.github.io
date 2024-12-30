@@ -3,7 +3,7 @@ Title: About me
 type: list
 ---
 
-I am a Technical Account Manager and currently work at Amazon Web Services. In my current role, I work as an advocate for customers and assist them with their journey to the cloud comsidering cost optimization and operational excellence.
+I am a Technical Account Manager and currently work at Amazon Web Services. In my current role, I work as an advocate for customers and assist them with their journey to the cloud considering cost optimization and operational excellence.
 
 Prior to becoming a TAM, I was part of the Linux team and worked on various AWS services to solve complex customer issues. I troubleshot application deployments and recreate customer. My responsibilities also included creating tutorials, how-to videos, and other technical articles for internal and customer communities. 
 
