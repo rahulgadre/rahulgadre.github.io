@@ -14,9 +14,10 @@ Prior to joining Avaya, I worked as a Network Engineering Intern at NRG Energy a
 Before coming to the US, I worked as a System Administrator at HSBC Software India Pvt. Ltd where I worked on a security related project dealing with electronic communication surveillance.
 
 I received a Bachelor of Engineering degree in Electronics Engineering from University of Mumbai and a Masters in Networking and System Administration with a 4.0 GPA from Rochester Institute of Technology.
-
+ 
 ### Certifications:
 
+-  🏆 AWS Certified AI Practitioner
 -  🏆 AWS Certified Solutions Architect Professional
 -  🏆 AWS Certified DevOps Engineer Professional
 -  🏆 HashiCorp Certified Terraform Associate
