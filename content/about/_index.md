@@ -31,19 +31,19 @@ I received a Bachelor of Engineering degree in Electronics Engineering from Univ
   
 ### Honors & Awards:
 
-#### Graduate Assistantship Scholarship Award – August 2015
+### Graduate Assistantship Scholarship Award – August 2015
 Description: Received full Graduate Assistantship from the department of Information Sciences and Technologies at RIT starting from August 2015
 
-#### Graduate Scholarship Award – Spring 2015
+### Graduate Scholarship Award – Spring 2015
 Description: Awarded with this scholarship award for consistently showing good academic skills.
 
-#### Graduate Scholarship Award – Fall 2014
+### Graduate Scholarship Award – Fall 2014
 Description: Received this scholarship award from RIT for outstanding performance in the Spring 2014 semester.
 
-#### Finger Lakes Regional Business Plan Challenge: 1st place; Nonprofit
+### Finger Lakes Regional Business Plan Challenge: 1st place; Nonprofit
 Description: New York Business Plan Competition
 
-#### Best Together Everyone Achieves More (Team) Award – March 2012
+### Best Together Everyone Achieves More (Team) Award – March 2012
 Description: Won the best team award at HSBC software India pvt Ltd.
 
 
