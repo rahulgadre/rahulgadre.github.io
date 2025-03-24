@@ -16,12 +16,12 @@ A quick way to access an EC2 instance is by using an alias. This alias can be cr
 ```
 Host ec2
     Hostname        <IP_DNS_of_EC2_instance>
-    User	            <default_user_of_AMI>
-    IdentityFile       "<path to the pem file>"
+    User	        <default_user_of_AMI>
+    IdentityFile    "<path to the pem file>"
 ```
 
 Once the config file is updated with the above configuration, an EC2 instance can be accessed using the command ```ssh ec2``` where ec2 is an alias created for SSH access.
 
-#### Note: update the alias name, hostname, user, and identity file details as per your usecase.
+### Note: update the alias name, hostname, user, and identity file details as per your usecase.
 
 
