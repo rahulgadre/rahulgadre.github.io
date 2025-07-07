@@ -1,17 +1,18 @@
 ---
-title: A playbook to install httpd using Ansible.
+title: Using Ansible playbook to install httpd
 date: 2025-07-04T15:08:25.364Z
 type: page
 tags: ["AWS", "Linux", "Ansible"] 
 description: This blog contains the steps to install httpd using Ansible playbook
 ---
 
-Once Ansible is up and running on the master node, one of the first playbooks you can write is to install httpd on a remote node. Here are a few prerequisites before getting started.
+Once Ansible is up and running on the master node, one of the first playbooks that can be written is to install httpd on a remote node. Here are a few prerequisites before getting started.
 
 #### Prerequisites:
 
 - Ensure that a new instance is running with Python 3.8 installed.
-- Set up passwordless access between the Ansible master node and the remote server.- - Update the inventory file with the login credentials.
+- Set up passwordless access between the Ansible master node and the remote server.
+- Update the inventory file with the login credentials.
 
 #### Ansible Playbook:
 
@@ -39,7 +40,7 @@ tasks:
       var: status_httpd.stdout
 
 ```
-The above playbook is made for an Ansible remote host deployed as a web server, and the host section of the playbook contains become: true. The last 2 tasks check the status of the httpd service and store the output in a register named status_httpd. The last task then displays the value stored in the register on the terminal.
+The above playbook is made for an Ansible remote host deployed as a web server, and the host section of the playbook contains ```become: true```. The last 2 tasks check the status of the httpd service and store the output in a register named ```status_httpd```. The last task then displays the value stored in the register on the terminal.
  
 The playbook can be run using the command: ```ansible-playbook installhttpd.yml```
 
