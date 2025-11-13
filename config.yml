@@ -1,6 +1,6 @@
 baseURL: https://rahulgadre.com
 title: "Rahul Gadre"
-author: "Rahul Gadre - Cloud Engineer and Cloud Advocate in Denver, CO"
+author: "Rahul Gadre"
 permalink: /:title/
 paginate: 6
 theme: charlolamode
@@ -46,7 +46,7 @@ params:
         title: Rahul Gadre
         description: |
 
-          Hello, I am Rahul - a Cloud and DevOps engineer. 
+          Hello, I am Rahul - A Cloud Engineer and Cloud Advocate based in Denver, CO. 
         
         imageUrl: "/images/my_new_pic.jpeg"
         imageTitle: Rahul Gadre
