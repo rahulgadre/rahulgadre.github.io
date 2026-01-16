@@ -26,13 +26,13 @@ body {
     /* font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; */
     /* font-family: "Familjen Grotesk", sans-serif; */
     /*  font-family: "Kalam", cursive; */
-    font-family: "Titillium Web", sans-serif; 
+    font-family: "Saira", sans-serif; 
     font-style: normal;
     font-optical-sizing: auto;
     font-weight: 400;
     font-variation-settings:
      /* "GRAD" 0; */
-     /* "wdth" 100; */
+      "wdth" 100; 
     /* font-size: 18px;  */
     font-size: 1em;
     line-height: 1.6;
