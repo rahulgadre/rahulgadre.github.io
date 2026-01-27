@@ -17,16 +17,16 @@ I hold a Bachelor of Engineering degree in Electronics from the University of Mu
 
 ### Certifications:
 
--  🏆 AWS Certified AI Practitioner
 -  🏆 AWS Certified Solutions Architect Professional
 -  🏆 AWS Certified DevOps Engineer Professional
--  🏆 HashiCorp Certified Terraform Associate
 -  🏆 AWS Certified Developer Associate
 -  🏆 AWS Certified SysOps Administrator Associate
 -  🏆 AWS Certified Solutions Architect Associate
+-  🏆 AWS Certified AI Practitioner
 -  🏆 AWS Certified Cloud Practitioner
 -  🏆 Microsoft Certified Azure Fundamentals
 -  🏆 Elastic Block Store (EBS) Subject Matter Expert
+-  🏆 HashiCorp Certified Terraform Associate
 -  🏆 Cisco Certified Network Associate - Retired
   
 ### Honors & Awards:
