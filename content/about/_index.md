@@ -17,6 +17,7 @@ I hold a Bachelor of Engineering degree in Electronics from the University of Mu
 
 ### Certifications:
 
+-  🏆 AWS Certified Security Specialty
 -  🏆 AWS Certified Solutions Architect Professional
 -  🏆 AWS Certified DevOps Engineer Professional
 -  🏆 AWS Certified Developer Associate
