@@ -164,3 +164,9 @@ Note - replace the delimit block with the block of code shown above.
 ### Issues encountered
 
 - Check all issues encountered [here](https://github.com/rahulgadre/rahulgadre.github.io/issues?q=is%3Aissue%20state%3Aclosed)
+
+### License
+
+All Hugo specific configuration and assets are released under the Apache 2.0 license.
+
+All content and images are Copyright Rahul Gadre. All rights reserved.
