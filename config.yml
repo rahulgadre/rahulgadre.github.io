@@ -52,9 +52,9 @@ params:
         imageTitle: Rahul Gadre
         # imageWidth: 120
         # imageHeight: 120
-        buttons:
-         - name: Resume
-           url: https://rahulgadre.com/resume/
+        # buttons:
+        # - name: Resume
+        #   url: https://rahulgadre.com/resume/
     mainSections:
       - articles
 
