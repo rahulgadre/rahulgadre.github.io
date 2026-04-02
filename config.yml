@@ -18,8 +18,9 @@ menu:
         - name: Blog
           url: /blog/
           weight: 20
-        - name: Projects
-          url: /projects/
+        - name: Resume
+          # url: /projects/
+          url: https://rahulgadre.com/resume/
           weight: 15
 
      # - name: Categories
