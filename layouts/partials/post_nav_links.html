@@ -1,0 +1,28 @@
+<nav class="paginav">                                                                                                          
+    {{ with .PrevInSection }}                                                                                                    
+    <a class="prev" href="{{ .Permalink }}">                                                                                     
+      <span>« {{ .Title }}</span>                                                                                                
+    </a>                                                                                                                         
+    {{ end }}                                                                                                                    
+    {{ with .NextInSection }}                                                                                                    
+    <a class="next" href="{{ .Permalink }}">                                                                                     
+      <span>{{ .Title }} »</span>                                                                                                
+    </a>                                                                                                                         
+    {{ end }}                                                                                                                    
+  </nav>                                                                                                                         
+                                                                                                                                 
+  <style>                                                                                                                        
+  .paginav {                                                                                                                     
+    display: flex;                                                                                                               
+    justify-content: space-between;                                                                                              
+    margin-top: 2rem;                                                                                                            
+    padding-top: 1rem;                                                                                                           
+    border-top: 1px solid var(--border, #ddd);                                                                                   
+  }                                                                                                                              
+  .paginav a {                                                                                                                   
+    text-decoration: none;                                                                                                       
+  }                                                                                                                              
+  .paginav .next {                                                                                                               
+    margin-left: auto;                                                                                                           
+  }                                                                                                                              
+  </style>  
