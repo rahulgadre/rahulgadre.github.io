@@ -1,0 +1,151 @@
+*,
+::after,
+::before {
+    box-sizing: border-box;
+}
+
+html {
+    -webkit-tap-highlight-color: transparent;
+    overflow-y: scroll;
+}
+
+a,
+button,
+body,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    color: var(--primary);
+}
+
+body {
+    font-family: "Inter", sans-serif;
+    font-style: normal;
+    font-optical-sizing: auto;
+    font-variation-settings: "wdth" 100;
+    font-weight: 400;
+    font-size: 1em;
+    line-height: 1.7; /* slightly improved readability */
+    word-break: break-word;
+    background: var(--theme);
+}
+
+article,
+aside,
+figcaption,
+figure,
+footer,
+header,
+hgroup,
+main,
+nav,
+section,
+table {
+    display: block;
+}
+
+/* HEADINGS */
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: "Montserrat", sans-serif;
+    line-height: 1.25;
+    font-weight: 600;
+    margin-top: 0;
+    margin-bottom: 0.6em;
+}
+
+/* Optional stronger hierarchy */
+h1 { font-weight: 700; }
+h2 { font-weight: 700; }
+h3 { font-weight: 600; }
+h4 { font-weight: 600; }
+h5 { font-weight: 500; }
+h6 { font-weight: 400; }
+
+/* PARAGRAPHS */
+p {
+    margin-top: 0;
+    margin-bottom: 1em;
+}
+
+ul {
+    padding: 0;
+}
+
+a {
+    text-decoration: none;
+}
+
+body,
+figure,
+ul {
+    margin: 0;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    border-spacing: 0;
+    overflow-x: auto;
+    word-break: keep-all;
+}
+
+button,
+input,
+textarea {
+    padding: 0;
+    font: inherit;
+    background: 0 0;
+    border: 0;
+}
+
+input,
+textarea {
+    outline: 0;
+}
+
+button,
+input[type=button],
+input[type=submit] {
+    cursor: pointer;
+}
+
+input:-webkit-autofill,
+textarea:-webkit-autofill {
+    box-shadow: 0 0 0 50px var(--theme) inset;
+}
+
+img {
+    display: block;
+    max-width: 100%;
+}
+
+/* SCROLLBAR */
+::-webkit-scrollbar-track {
+    background: 0 0;
+}
+
+.list:not(.dark)::-webkit-scrollbar-track {
+    background: var(--code-bg);
+}
+
+::-webkit-scrollbar-thumb {
+    background: var(--tertiary);
+    border: 5px solid var(--theme);
+    border-radius: var(--radius);
+}
+
+.list:not(.dark)::-webkit-scrollbar-thumb {
+    border: 5px solid var(--code-bg);
+}
+
+::-webkit-scrollbar-thumb:hover {
+    background: var(--secondary);
+}
