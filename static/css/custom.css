@@ -22,7 +22,7 @@ h6 {
 }
 
 body {
-    font-family: "Inter", sans-serif;
+    font-family: "Lora", serif;
     font-style: normal;
     font-optical-sizing: auto;
     font-variation-settings: "wdth" 100;
@@ -54,7 +54,7 @@ h3,
 h4,
 h5,
 h6 {
-    font-family: "Montserrat", sans-serif;
+    font-family: "Inter", sans-serif;
     line-height: 1.25;
     font-weight: 600;
     margin-top: 0;
