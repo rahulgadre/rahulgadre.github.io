@@ -17,8 +17,8 @@
       align-items: center;
       height: 100vh;
       margin: 0;
-      background-color: #f9f9f9;
-      color: #1a1a1a;
+      background-color: #121212; /* Dark background */
+      color: #e0e0e0;           /* Light text */
       text-align: center;
     }
 
@@ -26,12 +26,14 @@
       font-family: 'Montserrat', sans-serif;
       font-size: 8rem;
       margin: 0;
-      color: #ff6b6b;
+      color: #ff6b6b; /* Accent color */
+      animation: pop 0.6s ease-out;
     }
 
     p {
       font-size: 1.25rem;
       margin: 1rem 0 2rem;
+      color: #cccccc;
     }
 
     a.button {
@@ -46,11 +48,6 @@
 
     a.button:hover {
       background-color: #005fa3;
-    }
-
-    /* Optional subtle animation */
-    h1 {
-      animation: pop 0.6s ease-out;
     }
 
     @keyframes pop {
