@@ -30,8 +30,12 @@ It can also connect to custom tools through the Model Context Protocol (MCP) ser
 
 ## Key Resources
 
-- [AWS re:Invent 2025 Demo Video](https://www.youtube.com/watch?v=JajBEYle67I) — comprehensive overview of capabilities and use cases.
-- [Official AWS DevOps Agent Page](https://aws.amazon.com/devops-agent/) — product information and documentation.
+- **AWS re:Invent 2025 Demo Video** — comprehensive overview of capabilities and use cases.
+
+<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style>
+<div class='embed-container'><iframe src='https://www.youtube.com/embed/JajBEYle67I' frameborder='0' allowfullscreen></iframe></div>
+
+- **[Official AWS DevOps Agent Page](https://aws.amazon.com/devops-agent/)** — product information and documentation.
 
 ## Why It Matters
 
