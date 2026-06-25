@@ -22,13 +22,13 @@ h6 {
 }
 
 body {
-    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
     font-style: normal;
     font-optical-sizing: auto;
     font-variation-settings: "wdth" 100;
     font-weight: 400;
     font-size: 1em;
-    line-height: 1.7; /* slightly improved readability */
+    line-height: 1.7;
     word-break: break-word;
     background: var(--theme);
 }
@@ -54,7 +54,7 @@ h3,
 h4,
 h5,
 h6 {
-    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
     line-height: 1.25;
     font-weight: 800;
     margin-top: 0;
