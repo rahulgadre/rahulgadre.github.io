@@ -1,3 +1,12 @@
+/* Satoshi (self-hosted, served from static/css/fonts/) */
+@font-face {
+    font-family: 'Satoshi';
+    src: url('/css/fonts/Satoshi-Variable.woff2') format('woff2');
+    font-weight: 300 900;
+    font-style: normal;
+    font-display: swap;
+}
+
 *,
 ::after,
 ::before {
@@ -22,7 +31,7 @@ h6 {
 }
 
 body {
-    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+    font-family: 'Satoshi', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
     font-style: normal;
     font-optical-sizing: auto;
     font-variation-settings: "wdth" 100;
@@ -54,7 +63,7 @@ h3,
 h4,
 h5,
 h6 {
-    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+    font-family: 'Satoshi', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
     line-height: 1.25;
     font-weight: 800;
     margin-top: 0;
