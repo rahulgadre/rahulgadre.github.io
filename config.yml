@@ -1,5 +1,5 @@
 baseURL: https://rahulgadre.com
-  # title: "Rahul Gadre"
+title: "Rahul Gadre"
 author: "Rahul Gadre"
 permalink: /:title/
 paginate: 6
