@@ -36,7 +36,7 @@ body {
     font-optical-sizing: auto;
     font-variation-settings: "wdth" 100;
     font-weight: 400;
-    font-size: 18;
+    font-size: 18px;
     line-height: 1.7; /* slightly improved readability */
     word-break: break-word;
     background: var(--theme);
