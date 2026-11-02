@@ -7,7 +7,7 @@ I am a Technical Account Manager currently working at Amazon Web Services. In my
 
 Prior to becoming a TAM, I was part of the Linux team in AWS Support, where I worked on various AWS services to resolve complex customer issues. I troubleshot application deployments and recreated customer environments to diagnose problems. My responsibilities also included creating tutorials, how-to videos, and other technical articles for both internal and customer communities.
 
-Before joining AWS, I worked at Avaya as part of the ASP 100 and 4200 product design and development R&D team. I was actively involved in the design, testing, and deployment of Avaya's ASP products. In my first role at Avaya, I managed the Highlands Ranch data center. My expertise includes data center administration, DevOps and automation, and cloud computing. I have also earned multiple cloud certifications from AWS and Microsoft Azure.
+Before joining AWS, I worked at Avaya as part of a product design and development R&D team. I was actively involved in the design, testing, and deployment of Avaya's ASP products. In my first role at Avaya, I managed a data center. My expertise includes data center administration, DevOps and automation, and cloud computing. I have also earned multiple cloud certifications from AWS and Microsoft Azure.
 
 Prior to joining Avaya, I worked as a Network Engineering Intern at NRG Energy and Finger Lakes Technologies Group. These internship experiences helped me develop skills in customer support, network administration, hardware deployment, and system administration.
 
